@@ -14,13 +14,20 @@ namespace git
             return a + b;
         }
 
+        public static int Multiply(int a, int b)
+        {
+            return a * b;
+        }
 
+		
       
 
         static void Main(string[] args)
         {
             
 	    Console.WriteLine( Add(6,3));
+	    Console.WriteLine( Multiply(6,3));
+
         }
     }
 }
