@@ -8,14 +8,14 @@ namespace git
 {
     class Program
     {
-        public static int Sub(int a, int b)
+        public static void Test()
         {
-            return a - b;
+            
         }
 
         static void Main(string[] args)
         {
-            Console.WriteLine( Sub(6,3));
+            Console.WriteLine( Test());
         }
     }
 }
