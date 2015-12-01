@@ -8,6 +8,13 @@ namespace git
 {
     class Program
     {
+
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+
         public static int Sub(int a, int b)
         {
             return a - b;
@@ -16,6 +23,7 @@ namespace git
         static void Main(string[] args)
         {
             Console.WriteLine( Sub(6,3));
+	    Console.WriteLine( Add(6,3));
         }
     }
 }
