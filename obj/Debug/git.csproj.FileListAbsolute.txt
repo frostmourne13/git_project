@@ -1,1 +1,6 @@
 D:\visualProject\git\git\bin\Debug\git.exe.config
+D:\visualProject\git\git\bin\Debug\git.exe
+D:\visualProject\git\git\bin\Debug\git.pdb
+D:\visualProject\git\git\obj\Debug\git.csprojResolveAssemblyReference.cache
+D:\visualProject\git\git\obj\Debug\git.exe
+D:\visualProject\git\git\obj\Debug\git.pdb

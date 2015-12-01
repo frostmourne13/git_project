@@ -13,6 +13,10 @@ namespace git
         {
             return a + b;
         }
+        public static int Sub(int a, int b)
+        {
+            return a - b;
+        }
 
         public static int Multiply(int a, int b)
         {
@@ -27,6 +31,7 @@ namespace git
             
 	    Console.WriteLine( Add(6,3));
 	    Console.WriteLine( Multiply(6,3));
+        Console.WriteLine(Sub(6, 3));
 
         }
     }
